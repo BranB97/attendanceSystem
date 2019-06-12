@@ -1,0 +1,6 @@
+
+T0001;Tae;Takemi;death@hotmail.com;111-1111-111;Potions
+T0002;Becky;Kawakami;temperance@hot.com;111-1111-111;Transfiguration
+T0003;Chihaya ;Mifune;fortune@hot.com;111-1111-111;Charms
+T0004;Sae;Nijima;justice@hot.com;111-1111-111;Defense Against the Dark Arts
+T0005;Triss;Merigold;triss@hotmail.com;111-1111-111;History of Magic

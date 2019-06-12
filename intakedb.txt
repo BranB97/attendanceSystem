@@ -1,0 +1,5 @@
+IN-A;Potions;T0001;Defense Against the Dark Arts;T0004;History of Magic;T0005
+IN-B;Defense Against the Dark Arts;T0004;Transfiguration;T0002;Charms;T0003
+IN-D;Defense Against the Dark Arts;T0004;History of Magic;T0005;Transfiguration;T0002
+IN-C;Potions;T0001;History of Magic;T0005;Charms;T0003
+IN-E;Potions;T0001;Defense Against the Dark Arts;T0004;Transfiguration;n/a

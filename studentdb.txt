@@ -1,0 +1,5 @@
+S0001;Ann;Takamaki;ann@hotmail.com;111-1111-111;IN-A
+S0002;Haru;Okumura;haru@hotmail.com;111-1111-111;IN-A
+S0003;Makoto;Nijima;biker@hotmail.com;222-2222-222;IN-A
+S0004;Futaba;Sakura;oracle@hotmail.com;111-1111-111;IN-A
+S0005;Hifumi;Togo;shogi@hotmail.com;111-1111-111;IN-A

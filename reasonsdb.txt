@@ -1,0 +1,5 @@
+1/1/11;S0003;Makoto Nijima;IN-A;Defense Against the Dark Arts;I WAS SICK;Medical Certificate
+1/1/11;S0004;Futaba Sakura;IN-A;Potions;MY CAT DIED;CALL MY MUM
+1/1/11;S0004;Futaba Sakura;IN-A;Defense Against the Dark Arts;CAT DIED;CALL JOKER
+1/1/11;S0001;Ann Takamaki;IN-A;Potions;I WAS SICK;Medical Certificate
+1/1/11;S0002;Haru Okumura;IN-A;Potions;i was sick;Medical Certificate
